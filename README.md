@@ -1,4 +1,4 @@
 ## Keyboard:
-### Shoot: 'W'
-### Move Left: 'A'
-### Move Right: 'D'
+### Shoot: 'w'
+### Move Left: 'a'
+### Move Right: 'd'
