@@ -207,6 +207,13 @@ void DrawGLScene(GLvoid) { // Here's Where We Do All The Drawing
 		if ((*deltaShotIt)->y > 1) {
 			toDeleteDeltaShots.push_back(deltaShotIt);
 		}
+
+
+
+
+
+
+
 	}
 
 	for (auto zetaShipIt = zetaSpaceShips.begin(); zetaShipIt != zetaSpaceShips.end(); zetaShipIt++) {
@@ -508,8 +515,8 @@ int WINAPI WinMain(HINSTANCE hInstance,     // Instance
         return 0; // Quit If Window Was Not Created
     }
 
-    // Set drawing timer to 20 frame per second
-    UINT timer = SetTimer(hWnd, 0, 50, (TIMERPROC)NULL);
+    // Set drawing timer to 45 frame per second
+    UINT timer = SetTimer(hWnd, 0, 45, (TIMERPROC)NULL);
 
     while (GetMessage(&msg, NULL, 0, 0))
     {
