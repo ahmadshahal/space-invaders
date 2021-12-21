@@ -1,5 +1,4 @@
-# Instructions:
-## Keyboard:
-##### Shoot: 'W'
-##### Move Left: 'A'
-##### Move Right: 'D'
+# Keyboard:
+## Shoot: 'W'
+## Move Left: 'A'
+## Move Right: 'D'
