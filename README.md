@@ -5,9 +5,9 @@ Space Invaders is a University Project created by me in my 3rd year at Damascus 
 The game is built using Legacy OpenGL implemented using NEHE template.
 
 ## Controls:
-#### Shoot: 'w'
-#### Move Left: 'a'
-#### Move Right: 'd'
+* **_Shoot: 'w'_**
+* **_Move Left: 'a'_**
+* **_Move Right: 'd'_**
 
 ## Setup
 I advice you not to setup OpenGl on your computer and don't ever try to install it😅, as it would take several days to do so.
